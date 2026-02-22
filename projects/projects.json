@@ -1,0 +1,53 @@
+[
+  {
+    "name": "DD ROBOCON 2025",
+    "desc": "Led electronics and embedded system design achieving All India Rank 1. Developed custom PCBs, multi-rail power systems, and integrated STM32-based motor control architecture.",
+    "image": "ddrobocon2025.jpeg",
+    "category": "android",
+    "links": {
+      "view": "https://www.linkedin.com/posts/omgajjar1976_robocon-aburobocon-ddrobocon-activity-7428826562939998208-KryO"
+      
+    }
+  },
+  {
+    "name": "ABU Robocon 2025",
+    "desc": "Contributed to Team India achieving Global Rank 5. Worked on high-current power systems, embedded communication protocols, and robust hardware integration.",
+    "image": "aburobocon2025.png",
+    "category": "android",
+    "links": {
+      "view": "https://www.linkedin.com/posts/omgajjar1976_robocon-aburobocon-ddrobocon-activity-7428826562939998208-KryO"
+      
+    }
+  },
+  {
+    "name": "Turtle Chaser",
+    "desc": "Built an autonomous ROS2 node to spawn and capture turtles using real-time pose tracking, services, and control-based navigation logic.",
+    "image": "turtlechaser.png",
+    "category": "android",
+    "links": {
+      "view": "https://www.linkedin.com/posts/omgajjar1976_ros2-robotics-autonomoussystems-activity-7430945394701934592-8XBR"
+      
+    }
+  },
+  {
+    "name": "Autonomous Mapping in Webots",
+    "desc": "Built a differential drive TurtleBot3 simulation in Webots with Python for autonomous mapping and navigation. Implemented sensor data processing, motion control, and environment exploration logic to generate real-time map representation in simulation.",
+    "image": "mappingrobot.png",
+    "category": "android",
+    "links": {
+    
+      
+    }
+  },
+  {
+    "name": "Line Follower Robot",
+    "desc": "Designed and implemented a high-precision differential drive line follower robot using Arduino Uno. Developed sensor-based feedback control algorithms, integrated IMU and motor driver modules, and tuned control parameters for stable trajectory tracking and dynamic correction.",
+    "image": "linefollower.jpg",
+    "category": "arduino",
+    "links": {
+      
+      
+    }
+  }
+  
+]
